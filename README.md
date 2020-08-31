@@ -1,4 +1,4 @@
-## BitBlt 
+## BitBlt Example
 
 ---
 
